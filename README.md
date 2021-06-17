@@ -9,5 +9,5 @@
 
 #### Orientadores
   - Alexandre de Carvalho Pimentel, @profxx
-  - Carlos Augusto Ferreira da Fonseca, @kadutheway
+  - Carlos Augusto Ferreira da Fonseca (Kadu), @kadutheway :bowtie: 
  
